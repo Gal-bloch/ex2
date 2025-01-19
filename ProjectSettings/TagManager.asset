@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sensor
+  - Ground
+  - Dodo
+  - Exit
+  - Plank
+  - WingedSwing
+  - Hammer
+  - Rope
+  - Fire
+  - CutableRope
+  - Reset
+  - Trap
+  - Hunter
+  - NetRope
+  - Swing
+  - Stone
+  - Checkpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - container
+  - UncollidableByDodo
+  - Interactable
+  - InteractableAndCollidable
+  - UncolliadedByInteractable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
